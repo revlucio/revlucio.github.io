@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            revlucio
+tagline:          'A Jekyll theme'
+description:      'brain dumps from a software developer'
+url:              http://www.revlucio.com
+baseurl:          /
+
+author:
+  name:           'Luke Elliott'
+  url:            https://twitter.com/revlucio
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/revlucio/revlucio.io
